@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 0 15%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+td, th {
+  height: 2em;
+  border: 1px solid black;
+}

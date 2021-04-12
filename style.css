@@ -27,7 +27,9 @@ dd {
 }
 
 body {
+  padding-top: 10em;
   min-height: 100vh;
+  text-align: center;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
@@ -58,3 +60,22 @@ textarea,
 select {
   font: inherit;
 }
+
+label {
+  margin-right: 1em;
+}
+
+.title {
+  margin-bottom: 1em;
+}
+
+.btn {
+  margin: 1em 0;
+  padding: 0 1em;
+}
+
+.field {
+  width: 16em;
+}
+
+
